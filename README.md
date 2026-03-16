@@ -9,6 +9,7 @@ Spring 2026 CIS 486.
 - <a href="https://dev-coco-devops.onrender.com/">Render</a>
 - This App allows you to track your lego sets and create a wishlit for future sets
 
+- Kaden Trousdale's MINI-APP :octocat: Repository: https://github.com/Kaden-Trousdale/cis486Cumbie-tempName-app
 
 ## Submission: Quilt Designer Mini App
 - Tuesday Brown on [Github](https://github.com/TuesdayB)
